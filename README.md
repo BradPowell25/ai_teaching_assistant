@@ -4,4 +4,4 @@ AIcademic is aimed to support human teaching assistants in their courses by crea
 ### Training Data:
 - Existing Piazza posts and answers
 - Pdfs from the courses (books, slides, etc...)
-- Videos from the course (screenshots and transcriptions)
+- Videos from the courses (screenshots and transcriptions)
